@@ -1,3 +1,10 @@
+"""
+Vocal Remover - Pseudo-label generation script
+Developed by Phạm Lê Ngọc Sơn
+
+This script generates pseudo-labels for training data augmentation.
+"""
+
 import argparse
 import os
 

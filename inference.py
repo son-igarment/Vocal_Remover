@@ -1,3 +1,10 @@
+"""
+Vocal Remover - Audio separation tool
+Developed by Phạm Lê Ngọc Sơn
+
+This script provides functionality to separate vocals from instrumental music.
+"""
+
 import argparse
 import os
 

@@ -1,3 +1,10 @@
+"""
+Vocal Remover - Training script
+Developed by Phạm Lê Ngọc Sơn
+
+This script handles the training of the vocal separation model.
+"""
+
 import argparse
 from datetime import datetime
 import json

@@ -1,3 +1,10 @@
+"""
+Vocal Remover - Data augmentation script
+Developed by Phạm Lê Ngọc Sơn
+
+This script provides data augmentation functionality for training the vocal separation model.
+"""
+
 import argparse
 import os
 import subprocess
